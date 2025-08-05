@@ -1,4 +1,11 @@
-## Hi there 👋
+## 👩‍🏫 Sobre mim
+
+🎓 Sou **Pedagoga**, com pós-graduação em **Atendimento Educacional Especializado (AEE)** e **Salas de Recursos Multifuncionais**.  
+💻 Atuo também como **Programadora Full Stack** e **Técnica em Redes de Computadores**, integrando conhecimentos da educação e da tecnologia para desenvolver soluções inovadoras e acessíveis.  
+📚 Tenho experiência nas áreas **educacional** e **administrativa**, com foco em inclusão, organização e eficiência.  
+🚀 Apaixonada por aprender, ensinar e transformar ideias em projetos reais que gerem impacto positivo na sociedade.
+
+
 
 <!--
 **jucamposofc/jucamposofc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
